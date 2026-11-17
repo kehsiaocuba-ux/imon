@@ -8,3 +8,4 @@ build/
 *.sqlite3
 .DS_Store
 snapshot.ctl
+.venv-build/
