@@ -223,3 +223,7 @@ pytest
 ```
 
 Tests run fully offline against a local HTTP server.
+
+## License
+
+imon is free software released under the MIT License. Copyright (c) 2026 Alejandro Castaneda. See the `LICENSE` file.
